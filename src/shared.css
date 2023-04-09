@@ -1,0 +1,34 @@
+
+.flex-center {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+
+
+.attribution {
+    margin-top: 2rem;
+    font-size: 11px;
+    color: hsl(227, 70%, 96%);
+
+}
+.attribution a {
+    text-decoration: none;
+    color: red;
+    
+}
+
+.d-none {
+    display: none;
+}
+
+.d-block {
+    display: block;
+}
+
+.active {
+    background-color: hsl(217, 12%, 63%);
+    color: white !important;
+}
